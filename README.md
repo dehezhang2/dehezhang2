@@ -45,6 +45,7 @@ Now I am doing my semester thesis about controllable style transfer for 3D scene
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
 </p>
+
 ---
 
 <picture>
