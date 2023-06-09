@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://giphy.com/clips/ring-silver-thekinardist-6M3koNamuqvMVVx10i" width="100"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
 <!--
 **dehezhang2/dehezhang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
