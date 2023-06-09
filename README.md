@@ -23,11 +23,10 @@
 </picture>
 
 My name is Deheng Zhang, I am currently am Msc CS student in [ETH Zurich](https://ethz.ch/de.html). I obtained my Bachelor degree in [CityU of Hong Kong](https://www.cityu.edu.hk/), I was supervised by [Prof. Dr. Jing Liao](https://liaojing.github.io/html/) for my Bachelor thesis. 
-Now I am doing my semester thesis about controllable style transfer for 3D scene in [Disney Research|Studio Zürich](https://studios.disneyresearch.com/), supervised by [Dr. Clara Fernández Labrador](https://cfernandezlab.github.io/).
-My current research interet is an intersection between computer vision and computer graphics, and I would like to explore more possibility to combine deep learning with traditional rendering or 3D vision algorithms. 
+Now I am doing my semester thesis about controllable style transfer for 3D scene in [Disney Research|Studio Zürich](https://studios.disneyresearch.com/), supervised by [Dr. Clara Fernández Labrador](https://cfernandezlab.github.io/). My current research interet is an intersection between computer vision and computer graphics, and I would like to explore more possibility to combine deep learning with traditional rendering or 3D vision algorithms. 
+
 ---
-<p>
-  
+<p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
