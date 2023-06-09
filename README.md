@@ -35,7 +35,8 @@ My current research interet is an intersection between computer vision and compu
 </picture>
 
 <picture>
-    <img align="right" width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000">
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dehezhang2&hide=Mathematica&theme=noctis_minimus">
+    <img align="right" width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000">
 </picture>
 <!--
 **dehezhang2/dehezhang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
