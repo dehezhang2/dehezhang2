@@ -21,9 +21,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dehezhang2&show_icons=true&theme=noctis_minimus&hide=issues">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=dehezhang2&show_icons=true&theme=graywhite&hide=issues">
 </picture>
-
-My name is Deheng Zhang, I am currently am Msc CS student in [ETH Zurich](https://ethz.ch/de.html). I obtained my Bachelor degree in [CityU of Hong Kong](https://www.cityu.edu.hk/), I was supervised by [Prof. Dr. Jing Liao](https://liaojing.github.io/html/) for my Bachelor thesis. 
-Now I am doing my semester thesis about controllable style transfer for 3D scene in [Disney Research|Studio Zürich](https://studios.disneyresearch.com/), supervised by [Dr. Clara Fernández Labrador](https://cfernandezlab.github.io/). My current research interet is an intersection between computer vision and computer graphics, and I would like to explore more possibility to combine deep learning with traditional rendering or 3D vision algorithms. 
+My name is Deheng Zhang, I am currently an Msc CS student at [ETH Zurich](https://ethz.ch/de.html). I obtained my Bachelor's degree in [CityU of Hong Kong](https://www.cityu.edu.hk/), I was supervised by [Prof. Dr. Jing Liao](https://liaojing.github.io/html/) for my Bachelor's thesis. Now I am doing my semester thesis about controllable style transfer for 3D scenes in [Disney Research|Studio Zürich](https://studios.disneyresearch.com/), supervised by [Dr. Clara Fernández Labrador](https://cfernandezlab.github.io/). My current research interest is an intersection between computer vision and computer graphics, and I would like to explore more possibilities to combine deep learning with traditional rendering or 3D vision algorithms.
 
 ---
 <p align="center">
