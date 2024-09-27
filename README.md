@@ -22,7 +22,10 @@
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=dehezhang2&show_icons=true&theme=graywhite&hide=issues">
 </picture>
 
-My name is Deheng Zhang, I am currently an MSc CS student at [ETH Zürich](https://ethz.ch/de.html). I obtained my Bachelor's degree in [CityU of Hong Kong](https://www.cityu.edu.hk/), and I was supervised by [Prof. Dr. Jing Liao](https://www.cityu.edu.hk/stfprofile/jingliao.htm) for my Bachelor's thesis. Now I am doing my master thesis in [VLG](https://vlg.inf.ethz.ch/index.html), supervised by [Dr. Sergey Prokudin](https://vlg.inf.ethz.ch/team/Dr-Sergey-Prokudin.html) and [Shaofei Wang](https://taconite.github.io/), overseen by [Prof. Dr. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html). Previously, I also worked on my semester thesis in [Disney Research (Studio) Zürich](https://studios.disneyresearch.com/) about 3D style transfer, supervised by [Dr. Clara Fernández Labrador](https://cfernandezlab.github.io/) and overseen by [Prof. Dr. Markus Gross](https://inf.ethz.ch/de/personen/person-detail.mgross.html).  My current research interest is an intersection between computer vision and computer graphics, and I would like to explore more possibilities to combine deep learning with traditional rendering or 3D vision algorithms.
+My name is Deheng Zhang, I am currently Ph.D. student at the [University of Tuebingen](https://uni-tuebingen.de/). Previously, I finished my MSc at [ETH Zürich](https://ethz.ch/de.html) where I worked on 3D Vision/Graphics research projects in [Disney Research (Studio) Zürich](https://studios.disneyresearch.com/) overseen by [Prof. Dr. Markus Gross](https://inf.ethz.ch/de/personen/person-detail.mgross.html) and [VLG](https://vlg.inf.ethz.ch/index.html) overseen by [Prof. Dr. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html). Before that, I finished Bachelor's degree at CityU of Hong Kong. 
+
+My current research interest is an intersection between computer vision and computer graphics, and I would like to explore more possibilities to combine deep learning with traditional rendering or 3D vision algorithms.
+
 
 ---
 <p align="center">
